@@ -18,9 +18,9 @@ Därefter kommer vi titta på Serverless Framework och hur vi kan samla all konf
 
 ### Presentationer
 * [API-Gateway](https://docs.google.com/presentation/d/19eNdfAQjqqoohS5A-wswz-4eVNzsH3osWgsPHuDtQo4/edit?usp=sharing)
+* [Serverless Framework](https://docs.google.com/presentation/d/1F9gsMUgd00Icdfb7snB9buXC-8mkdobNT0IXk4f57ow/edit?usp=sharing)
 
 ### Filmer
-
 
 ### Länkar
 * [AWS](https://aws.amazon.com/)
