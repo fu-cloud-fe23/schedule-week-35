@@ -27,6 +27,7 @@ Därefter kommer vi titta på Serverless Framework och hur vi kan samla all konf
 * [IAM Documentation](https://docs.aws.amazon.com/iam/)
 * [Lambda Documentation](https://docs.aws.amazon.com/lambda/)
 * [AWS CLI Download](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+* [Lathund AWS och Terminalen](https://github.com/fu-cloud-fe23/lecture-27-aug/tree/main/assets)
 
 ### Övningar
 * [Lambda Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-lambda-bootcamp)
