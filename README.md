@@ -32,6 +32,7 @@ Därefter kommer vi titta på Serverless Framework och hur vi kan samla all konf
 ### Övningar
 * [Lambda Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-lambda-bootcamp)
 * [API-Gateway Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-api-gateway-bootcamp)
+* [Serverless Framework Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-serverless-framework-bootcamp)
 
 
 
